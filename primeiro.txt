@@ -1,2 +1,3 @@
 Arquivo de teste
 Fiz uma alteração
+Pequena alteração da branch2
